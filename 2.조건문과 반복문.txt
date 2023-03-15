@@ -14,3 +14,6 @@
         -range(5) => 0, 1, 2, 3, 4
        range(start=0, stop, step=1) -> range(시작값, 종료값, 증가되는 값)
         -종료값은 종료값이지만 stop에는 포함되지않음(진짜 stop되는 지점은 종료값-1)
+    5) while 루프
+        -while 조건:
+            반복 문장 
